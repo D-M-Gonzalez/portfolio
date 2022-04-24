@@ -26,7 +26,7 @@ export default function BalanceAccordion() {
                 <Grid container>
                     <Grid item sm={4} xs={2}/>
                     <Grid item sm={6} xs={8}>
-                        <Typography fontSize={18} fontWeight="bolder" paragraph>Math Tools</Typography>
+                        <Typography fontSize={18} fontWeight="bolder" paragraph>Balance APP</Typography>
                     </Grid>
                     <Grid item sm={2} xs={2}/>
                     <Grid item sm={2.5} xs={2}/>
